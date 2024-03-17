@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+packageimporter.egg-info/PKG-INFO
+packageimporter.egg-info/SOURCES.txt
+packageimporter.egg-info/dependency_links.txt
+packageimporter.egg-info/requires.txt
+packageimporter.egg-info/top_level.txt
